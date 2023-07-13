@@ -13,7 +13,7 @@ body::before{
     background: #535971;
 
     height: 436px;
-    width: 100%;
+    width: 100vh;
 
     position: absolute;
 
